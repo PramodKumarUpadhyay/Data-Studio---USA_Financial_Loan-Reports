@@ -1,0 +1,13 @@
+PROJECT Name:	USA_Financial_Loan Reports
+Source File: 	MS Excel
+Requirement:	Overall one page Summary Dashboard on Data Studio
+Optional: 	Report page must not have dark background
+
+Steps:
+1) Clean data and prepare file as "USA_Financial_Loan Reports _ Data Cleaning"
+2) Create Overall one page Summary Dashboard on Data Studio which will show:
+	a) Minimum three scorecards for major details.
+	b) Minimum 3 charts to show status of different points from data
+	c) one logo (any image will do)
+
+
