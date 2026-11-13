@@ -1,7 +1,8 @@
 **Short description:**
 Created USA_Financial_Loan Reports in Data Studio using an Excel file as the data source.
 
-PROJECT Name:           USA_Financial_Loan Reports
+**PROJECT Name:**
+USA_Financial_Loan Reports
 
 Source File:            MS Excel
 
