@@ -1,4 +1,4 @@
-Short description:  USA_Financial_Loan Reports were created in Data Studio using an Excel file as the data source.
+Short description:  Created USA_Financial_Loan Reports in Data Studio using an Excel file as the data source.
 PROJECT Name:       USA_Financial_Loan Reports
 Source File:        MS Excel
 Requirement:        Overall one-page summary dashboard in Data Studio in PDF format
